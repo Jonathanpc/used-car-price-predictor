@@ -1,7 +1,7 @@
 DB_CONFIG = {
     'host': 'localhost',
     'user': 'root',    
-    'password': 'Foxy399.',
+    'password': '######',
     'database': 'used_cars_db'
 }
 

@@ -17,7 +17,6 @@ An end-to-end data engineering and machine learning project that delivers transp
 - [Visual Insights](#visual-insights)
 - [Modeling Roadmap](#modeling-roadmap)
 - [Future Enhancements](#future-enhancements)
-- [Contributing](#contributing)
 - [License](#license)
 
 ---
